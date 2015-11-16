@@ -1,6 +1,6 @@
 # description of files 
 
-Program 3 - The 'main' program that everything is called from. Calls the main in it as well as the  huffman algorithim. 
+Program 3 - The 'main' program that everything is called from. Calls the main in it as well as contains the  huffman algorithim. 
 
 Heap : Contains the heap class and needed heap functions such as mineapify, insert, and delete that are used to implement huffman encoding. 
 
