@@ -1,10 +1,19 @@
-1: 
-Program 3 - The 'main' program that everything runs from. Has the main in it as well as huffmans algorithim. 
-Heap : Has the heap class and all the needed heap functions such as mineapify, insert, and delete. 
-node: basic constructor class. 
+# description of files 
 
-2: 
-The main function that should be compiled is "main" in the Program3.java. 
+Program 3 - The 'main' program that everything is called from. Calls the main in it as well as the  huffman algorithim. 
 
-3: I spent around 90% of my time working on this project debugging. I knew something was wrong with my insert or delete, because after x amount of run throughs, my list would randomly get completely messed up.
-eventually, it ended up just being an indexing issue in delete. that was pretty depressing. 
+Heap : Contains the heap class and needed heap functions such as mineapify, insert, and delete that are used to implement huffman encoding. 
+
+
+node: basic node constructor class. 
+
+Analysis txt is the output file that we get displaying total bits, bits saved, and bits after the encoding.
+
+Other .txt files are test cases. 
+
+
+
+
+Issues and experience:
+
+I spent the majority of my time on this project debugging. I knew something was wrong with my insert or delete, because after x amount of run throughs, my list would randomly get completely messed up. Eventually, it ended up just being an indexing issue in delete.
