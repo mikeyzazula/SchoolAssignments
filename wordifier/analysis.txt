@@ -1,0 +1,19 @@
+king.txt 
+Total bits: 68024
+Total bits saved: 31128
+Bits after encoding Huffman: 31128 
+
+obama txt
+Total bits: 106408
+Total bits saved: 49112
+Bits after encoding Huffman: 57296
+
+emerson txt
+Total bits: 442232
+Total bits saved: 202213
+Bits after encoding Huffman: 240019
+
+decl.txt
+Total bits: 64048
+Total bits saved: 29122
+Bits after encoding Huffman: 34926
