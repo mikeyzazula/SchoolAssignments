@@ -5,7 +5,7 @@
 
 ;; CSCI 301 Fall 2015 
 
-;; Lab 8
+;; Lab 8: Determine if the relation is transitive 
 
 ;; 
 
